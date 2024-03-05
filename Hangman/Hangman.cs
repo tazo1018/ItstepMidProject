@@ -24,7 +24,6 @@ namespace Hangman
             var player = createPlayer();
             bool guessedOrNot = false;
             string wordToguess = generateWordToGuess();
-            Console.WriteLine("CHEMTVIIIN ->> " + wordToguess);
             string hiddenWordToGuess = HiddenWordToGuess(wordToguess);
             string resultAfterGuessing = wordToguess;
             List<string> guessedLetterArray = new List<string>();

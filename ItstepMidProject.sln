@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34607.119
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GuessingGame", "ItstepMidProject\GuessingGame.csproj", "{AFA2EA8B-305C-4399-A5F0-6C1368121EA8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GuessingGame", "GuessingGame\GuessingGame.csproj", "{AFA2EA8B-305C-4399-A5F0-6C1368121EA8}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calculator", "Calculator\Calculator.csproj", "{231D06F7-AB7A-4474-860A-2C3E43CB3F16}"
 EndProject

@@ -10,7 +10,7 @@ namespace GuessingGame
     {
         
         private List<Gamer> GamerList { get; set; } = new List<Gamer>();
-        public readonly string _filePath = "C:\\Users\\user\\source\\repos\\ItstepMidProject\\ItstepMidProject\\gamersList.csv";
+        public readonly string _filePath = "C:\\Users\\user\\source\\repos\\ItstepMidProject\\GuessingGame\\gamersList.csv";
         public void start()
         {
             Console.WriteLine("Welcome to Number Guessing Game! Good luck!");
