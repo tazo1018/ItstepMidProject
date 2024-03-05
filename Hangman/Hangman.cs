@@ -124,7 +124,7 @@ namespace Hangman
                 string guessedWord = player.GuesstheWord();
                 while (guessedWord.Length != wordToguess.Length)
                 {
-                    Console.WriteLine($"the word should contain {wordToguess.Length + 1} letters.");
+                    Console.WriteLine($"the word should contain {wordToguess.Length} letters.");
                     guessedWord = player.GuesstheWord();
                 }
                 if (guessedWord.Equals(wordToguess, StringComparison.OrdinalIgnoreCase))
