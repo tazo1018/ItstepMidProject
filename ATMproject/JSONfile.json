@@ -1,0 +1,86 @@
+[
+  {
+    "Name": "nika",
+    "SurName": "gurabanidze",
+    "PersonalId": "12343445564",
+    "ClientId": 1,
+    "Account": {
+      "AccountNumber": "425763539390781361178",
+      "Money": {
+        "Currency": "gel",
+        "Balance": 300
+      }
+    },
+    "Password": 4987
+  },
+  {
+    "Name": "akaki",
+    "SurName": "wereteli",
+    "PersonalId": "36007235468",
+    "ClientId": 2,
+    "Account": {
+      "AccountNumber": "754269151326242146543",
+      "Money": {
+        "Currency": "gel",
+        "Balance": 300
+      }
+    },
+    "Password": 5373
+  },
+  {
+    "Name": "akaki",
+    "SurName": "wereteli",
+    "PersonalId": "23455364644",
+    "ClientId": 3,
+    "Account": {
+      "AccountNumber": "528399885297383277989",
+      "Money": {
+        "Currency": "gel",
+        "Balance": 5
+      }
+    },
+    "Password": 6611
+  },
+  {
+    "Name": "natia",
+    "SurName": "swervadze",
+    "PersonalId": "23455435353",
+    "ClientId": 4,
+    "Account": {
+      "AccountNumber": "038605829396192301898",
+      "Money": {
+        "Currency": "usd",
+        "Balance": 25
+      }
+    },
+    "Password": 5821
+  },
+  {
+    "Name": "aleqsi",
+    "SurName": "makedoneli",
+    "PersonalId": "77777777777",
+    "ClientId": 5,
+    "Account": {
+      "AccountNumber": "838644464882349015885",
+      "Money": {
+        "Currency": "eur",
+        "Balance": 2600
+      }
+    },
+    "Password": 3443
+  },
+  {
+    "Name": "goga",
+    "SurName": "gachechiladze",
+    "PersonalId": "12341234123",
+    "ClientId": 6,
+    "Account": {
+      "AccountNumber": "824419817833783184961",
+      "Money": {
+        "Currency": "gel",
+        "Balance": 123
+      }
+    },
+    "Password": 9988
+  }
+]
