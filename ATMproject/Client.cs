@@ -100,7 +100,6 @@ namespace ATMproject
             string filePath = "C:\\Users\\user\\source\\repos\\ItstepMidProject\\ATMproject\\JSONlog.json";
             List<string> lines = new List<string>();
 
-            // Read the file line by line
             using (StreamReader reader = new StreamReader(filePath))
             {
                 string line;

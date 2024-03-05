@@ -37,7 +37,6 @@ namespace GuessingGame
             catch (FormatException)
             {
                 Console.WriteLine("Invalid input! Please enter a valid integer.");
-                // Recursively call takeAGuess() until valid input is entered
                 return takeAGuess();
             }
         }
