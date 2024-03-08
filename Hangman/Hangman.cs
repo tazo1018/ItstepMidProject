@@ -306,7 +306,7 @@ namespace Hangman
                 }
             }
             var maxId = PlayerList.Max(x => x.PlayerId);
-            return (new Player(maxId, name, surname));
+            return (new Player(maxId + 1, name, surname));
         }
 
         static void readingLinesFromTxt(int start, int end)
